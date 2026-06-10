@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Dhruv-sm/Dhruv-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruv, an engineering student with a passion for Linux, cybersecurity, networking, and open-source software that puts users in control.
 
-Here are some ideas to get you started:
+Living in the terminal, learning how systems work, and securing them along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- 🐧 Linux
+- 🔐 Cybersecurity
+- 🌐 Networking
+- 🤖 AI & Python
+- 🏋️ Fitness
+- 🥾 Trekking
+- 🌍 Travel
+
+### Currently Working On
+
+- Improving my Linux skills
+- Building Python projects
+- Exploring cybersecurity
+- Tech startups ideas
+
+### Fun Facts
+
+- Mountains > Cities
+- Terminal > GUI
+- Always planning the next trek
+- Collecting skills before collecting job titles
